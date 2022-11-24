@@ -72,7 +72,7 @@ public class LogOperatorConfig implements LogOperatorConfiguration {
 
 ## 使用
 
-**@LogRecord ** 可以注解在方法上或类上，**同时存在就近原则 `方法上注解` 优先于 `类上注解`**。
+**@LogRecord** 可以注解在方法上或类上，**同时存在就近原则 `方法上注解` 优先于 `类上注解`**。
 
 
 |    属性    |       备注       |
