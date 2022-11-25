@@ -4,13 +4,15 @@
 
 ## 使用方式
 
+需要自行打包,然后传到Nexus, 再引入依赖。执行 package即可打包。
+
 Maven
 
 ```
     <dependency>
             <groupId>com.owinfo</groupId>
             <artifactId>owinfo-audit-log</artifactId>
-            <version>1.5.8</version>
+            <version>1.0.0</version>
     </dependency>
 ```
 
